@@ -1,0 +1,135 @@
+header{
+    background-color: antiquewhite;
+    background-image: url(../Images/software_engineering_banner.png);
+    margin: 0px;
+}
+
+.Title{
+    color: rgb(255, 255,255);
+    text-align: left;
+}
+
+body{
+    background-color: white;
+
+}
+
+h2{
+    font-family: 'Cambria', Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: left;
+    position:relative; 
+}
+
+hr{
+    height: 0.5px; 
+    background-color: black; 
+    clear:left;
+
+}
+
+
+ul.navbar {
+    list-style-type: none;   
+    background-color: lightcyan;
+    margin-bottom: 50px;
+    padding: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-bottom: 50px;
+    border-style: solid; 
+    border-color: darkblue;
+    
+
+
+}
+li.navbar{
+    display: inline; 
+    padding-right: 10px;
+    padding-left: 10px; 
+    margin-bottom: 10px; 
+    margin-right: 10px;
+    margin-left: 10px; 
+
+     
+}
+
+a{
+    color: rgb(10, 150,255);
+}
+li a:hover{
+    color: blue ;
+}
+
+#programming_lang{
+    float: left;
+    width: 150px; 
+    height: 300px; 
+    border: 1px solid black; 
+    border-color: black;
+    background-color: lightgrey;
+    margin-right: 6px;
+    margin-left: 6px;
+    margin-top: 20px;
+
+}
+
+#front_end{
+    float: left; 
+    width: 150px; 
+    height: 300px; 
+    border: 1px solid black; 
+    border-color: black;
+    background-color: lightgrey;
+    margin-right: 6px;
+    margin-top: 20px; 
+}
+
+#tools{
+    float: left; 
+    width: 150px; 
+    height: 300px; 
+    border: 1px solid black; 
+    border-color: black;
+    background-color: lightgrey;
+    margin-right: 6px;
+    margin-top: 20px;
+}
+
+#engineering_skills{
+    float: left; 
+    width: 150px; 
+    height: 300px; 
+    border: 1px solid black; 
+    border-color: black;
+    background-color: lightgrey;
+    margin-bottom: 6px;
+    margin-top: 20px;
+}
+
+#skills_container{
+    height: 350px;
+    width:auto; 
+    background-color: lightcyan;
+}
+
+.work_experience{
+    clear:left; 
+   display:block;
+}
+
+span.start_end_date{
+    float: right;
+}
+
+em.location{
+    float: right; 
+    vertical-align: sub;
+}
+
+hgroup.work_details{
+   line-height: 6px;
+    
+
+}
+
+
